@@ -2,7 +2,7 @@
 Say hello to your favorite buttle- I mean bottler! Alfred brings back the old-school way of doing things **through the chat**.
 
 ## Installation
-The installation guide can be found in the [Installation.md](https://github.com/JonathanNeyman/AlfredBottler/blob/main/Installation.md) file.
+The installation guide can be found in the [Installation.md](https://github.com/JonathanNeyman/Alfred-Bottler/blob/main/Installation.md) file.
 
 ## Notes
 * The project is set up for you to use `npm run dev` when working on the bot so that it refreshes when you save a file.
