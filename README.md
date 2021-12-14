@@ -15,6 +15,6 @@ The installation guide can be found in the [Installation.md](https://github.com/
 `/ban {user} {duriation} {reason}` : Bans a user the old-fassion way, can have a duriation and/or reason if needed.\
 `/ping` : Simply replies pong, can be useful to see if the bot has run into any issues.
 
-## Todo:
-> Implement `/broadcast {message}`
-> Implement `/mute {user} {duriation} {reason}`
+## Todo
+* Implement `/broadcast {message}`
+* Implement `/mute {user} {duriation} {reason}`
